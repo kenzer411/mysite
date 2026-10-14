@@ -5,7 +5,7 @@ body, header, nav, main, footer, img, h1, h3 {
   border: 0;
 }
 
-(/*Style rules for body and images*/)
+/*Style rules for body and images*/
  
 
 /* Style rule for images */
@@ -14,9 +14,7 @@ img {
 
 max-width: 100%;
 
-display: block;
-
-}
+display: block;}
 
  
 
