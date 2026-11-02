@@ -167,7 +167,27 @@ font-weight: bold;
 border: 5px solid #373684;
 
 }
+/* Style rules for contact form content */
 
+form {
+  
+  width: auto;
+  
+}
+
+.form-grid {
+  
+  display: grid;
+  
+  grid-template-columns: auto auto;
+
+  grid-gap: 20px;
+  
+}
+
+.btn {
+  grid-column: 1 / span 2;
+}
  
 
 /* Style rules for footer content */
