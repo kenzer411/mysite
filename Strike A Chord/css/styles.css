@@ -262,6 +262,11 @@ tr:nth-child(odd) {
    background-color: #b7b7e1;
 
 }
+.tab-desk {
+
+     display: none;
+
+}
  
 
 /* Style rules for footer content */
