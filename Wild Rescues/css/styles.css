@@ -94,10 +94,23 @@ main ul {
     font-weight: bold;
     text-align: center;
 }
+.round {
+  border-radius: 6px;
+}
+#info ul {
+  margin-left: 10%;
+}
 
 #contact {
     text-align: center;
 }
+.tel-link {
+   background-color: #2a1f14;
+   padding: 2%;
+   width: 80%;
+   margin: 0 auto;
+}
+
 /* Style rules for main content */
 
 main {
