@@ -108,6 +108,7 @@ overflow: auto;
 
 font-family: Verdana, Arial, sans-serif;
 
+
 }
 
 main p {
@@ -233,4 +234,23 @@ th{
 tr:nth-child(odd) {
   background-color: #deccba;
 }
+/* Style rules for the mobile */
+.mobile {
   
+  display: block;
+  
+}
+
+.tab-desk {
+  
+  display: none;
+  
+}
+.mobile h1, .mobile h3 {
+  
+padding: 2%;
+  
+text-align: center;
+  
+}
+
