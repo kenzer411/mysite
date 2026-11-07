@@ -45,7 +45,7 @@ nav {
 
 nav ul {
     list-style-type: none;
-    margin: 0;
+
     text-align: center;
 }
 
@@ -65,7 +65,9 @@ nav li a {
 /* Style rules for main content */
 main {
     padding: 2%;
-    font-family: Verdana, Arial, sans-serif;
+    font-family: 'Lora', serif;
+}
+
 }
 
 main p {
@@ -235,18 +237,22 @@ tr:nth-child(odd) {
   background-color: #deccba;
 }
 /* Style rules for the mobile */
-.mobile {
-  
-  display: block;
-  
-}
-
 .tab-desk {
   
   display: none;
   
 }
+.mobile h1 {
+  font-family: 'Emblema One', cursive;
+}
+
+.mobile h3 {
+    font-family: 'Lora', serif;
+}
+
+
 .mobile h1, .mobile h3 {
+
   
 padding: 2%;
   
