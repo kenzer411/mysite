@@ -110,6 +110,12 @@ main ul {
    width: 80%;
    margin: 0 auto;
 }
+.tel-link a {
+  color: #f6eee4;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 
 /* Style rules for main content */
 
