@@ -283,6 +283,30 @@ text-align: center;
 @media screen and (min-width: 620px), print {
    
 }
+/* Media Query for Large Desktop Viewports */
+@media screen and (min-width: 1921px) {
+    body {
+  background: linear-gradient(#f6eee4, #78593a);
+}
+
+#wrapper {
+  width: 1920px;
+  margin: 0 auto;
+}
+
+main {
+  background-color: #f6eee4;
+
+}
+  
+/* Media Query for Print */
+@media print {body {
+  background-color: white;
+  color: black;
+}
+
+}
+
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 1000px), print {
 }
