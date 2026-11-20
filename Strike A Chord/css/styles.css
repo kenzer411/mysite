@@ -334,9 +334,9 @@ color: #4645a8;
 text-decoration: none;
 
 }
-/* media query for tablet viewport
-
+/* media query for tablet viewport */
 @media screen and (min-width: 550px), print {
+}
 /* Tablet Viewport: Show .tab-desk class, hide .mobile class */
 
 .tab-desk {
@@ -344,8 +344,6 @@ text-decoration: none;
    display: block;
 
 }
-
-
 
 .mobile {
 
@@ -432,8 +430,7 @@ main h3 {
 /* Media Query for Print */
 @media print body {
   background-color: #fff;
-  color: #000;
-}
+  color: #000;}
 .grid {
   display: grid;
   grid-template-columns: auto auto;
