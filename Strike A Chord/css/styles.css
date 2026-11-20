@@ -73,8 +73,6 @@ nav li {
     border-top: 1px solid #e5e9fc;
 }
 
-}
-
 nav li a{
 
 display: block;
@@ -407,8 +405,6 @@ nav li {
    padding: 0.25em 0.5em
         }
 
-
-}
      /* Desktop Viewport: Style rules for main content */
 #info ul {
    margin-left: 5%;
@@ -431,6 +427,7 @@ main h3 {
 }
  /* Tablet Viewport: Media Query for Desktop Viewport */
 @media screen and (min-width: 769px), print {
+}
     
 /* Media Query for Print */
 @media print body {
@@ -443,8 +440,6 @@ main h3 {
   grid-gap: 20px;
 }
 
-
-}
 
 /* Desktop Viewport: Style rule for header */
 header {
